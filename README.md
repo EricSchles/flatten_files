@@ -1,0 +1,6 @@
+#Flatten Files
+
+takes in a directory with a set of subdirectories and moves all files from subdirectories into the root directories and then deletes all subdirectories
+
+##Usage:
+python flatten.py [folder]
